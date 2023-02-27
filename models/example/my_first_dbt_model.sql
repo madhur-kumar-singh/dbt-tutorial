@@ -13,7 +13,8 @@ with source_data as (
 
     select 1 as id
     union all
-    select null as i
+    select null as id
+    
 
 )
 
