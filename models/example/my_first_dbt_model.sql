@@ -6,6 +6,8 @@
 
     Try changing "table" to "view" below
 */
+--this is to check the version control .
+
 
 {{ config(materialized='table') }}
 
